@@ -1,4 +1,4 @@
 # first-demo
 This is my first github repository.
 <br>
-Author: Kirti Rai
+Author: Kirti Rai (Student)
